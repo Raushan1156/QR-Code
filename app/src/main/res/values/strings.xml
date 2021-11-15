@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Code</string>
+    <string name="Welcome_text">Welcome to QR code \nScanner and Generator</string>
+</resources>

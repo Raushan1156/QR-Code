@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">QR Code</string>
     <string name="Welcome_text">Welcome to QR code \nScanner and Generator</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="add_your_text_to_embed_in_qr_code">Add your text to embed in QR Code</string>
+    <string name="your_code_will_appear_here">Your Code will appear here.</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="interface_image">Interface Image</string>
 </resources>

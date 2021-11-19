@@ -5,6 +5,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="#E9D8A6"
     tools:context=".scanQR">
+
+<eu.livotov.labs.android.camview.ScannerLiveView
+        android:id="@+id/camView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/scanData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:gravity="center"
+        android:hint="your text is"
+        android:textColorHint="#EE9B00"
+        android:background="#94D2BD"
+        android:textSize="30sp"
+        android:padding="5dp"/>
 
 </RelativeLayout>
